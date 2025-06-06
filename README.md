@@ -1,16 +1,37 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="60%">
 
-<!--
-**dungzum22/dungzum22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Experience
 
-Here are some ideas to get you started:
+<!-- Thêm kinh nghiệm của bạn ở đây -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts" />
+
+**Languages:** JavaScript, TypeScript
+
+### Web-stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" />
+
+**Technologies:** React, Next.js, Vue.js, HTML, CSS, Tailwind CSS
+
+### Backend technologies
+
+<img src="https://skillicons.dev/icons?i=c,cs,java,spring,docker" />
+
+**Technologies:** C, C#, Java, JSP, Spring Boot, Docker
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+
+**Technologies:** MySQL, SQL Server, PostgreSQL, Redis
+
+### General
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,idea,vscode,linux,windows" />
+
+**Tools:** Git, GitHub, GitHub Actions, GitLab, IntelliJ IDEA, VS Code, Linux, Windows Server
