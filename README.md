@@ -1,6 +1,10 @@
-<table>
-<tr>
-<td width="60%">
+# Dung Zum
+
+<img align="right" src="image/README/1749233217490.png" alt="Profile Image" width="300"/>
+
+Currently studying at FPT University. Future dream: having 10 wives.
+
+## more details about me
 
 ### 📚 Experience
 
