@@ -4,7 +4,8 @@
 
 Currently studying at FPT University. Future dream: having 10 wives.
 
-## more details about me
+<details>
+<summary>▶ more details about me</summary>
 
 ### 📚 Experience
 
@@ -39,3 +40,5 @@ Currently studying at FPT University. Future dream: having 10 wives.
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,idea,vscode,linux,windows" />
 
 **Tools:** Git, GitHub, GitHub Actions, GitLab, IntelliJ IDEA, VS Code, Linux, Windows Server
+
+</details>
