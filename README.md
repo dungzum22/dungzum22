@@ -8,9 +8,8 @@ Currently studying at FPT University. Future dream: having 10 wives.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dungzum22&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dungzum22&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=dungzum22&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungzum22&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dungzum22&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
