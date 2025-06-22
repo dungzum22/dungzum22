@@ -1,8 +1,18 @@
-# Dung Zum
-
-<img align="right" src="image/README/1749233217490.png" alt="Profile Image" width="300"/>
+# Le Tien Dung
 
 Currently studying at FPT University. Future dream: having 10 wives.
+
+![Views](https://counter.seku.su/cmoe?name=dungzum22&theme=tokyonight)
+
+## 📊 GitHub Stats
+
+<!-- Thêm GitHub Readme Stats -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dungzum22&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dungzum22&theme=radical)](https://git.io/streak-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dungzum22&theme=react-dark)
 
 <details>
 <summary>▶ more details about me</summary>
