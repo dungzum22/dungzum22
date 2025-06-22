@@ -6,13 +6,17 @@ Currently studying at FPT University. Future dream: having 10 wives.
 
 ## 📊 GitHub Stats
 
-<!-- Thêm GitHub Readme Stats -->
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dungzum22&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dungzum22&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dungzum22&theme=radical)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dungzum22&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dungzum22&theme=react-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dungzum22&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dungzum22&theme=react-dark&hide_border=true)
+
+</div>
 
 <details>
 <summary>▶ more details about me</summary>
