@@ -2,8 +2,6 @@
 
 Currently studying at FPT University. Future dream: having 10 wives.
 
-![Views](https://counter.seku.su/cmoe?name=dungzum22&theme=tokyonight)
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -11,7 +9,7 @@ Currently studying at FPT University. Future dream: having 10 wives.
 <img src="https://github-readme-stats.vercel.app/api?username=dungzum22&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungzum22&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dungzum22&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=dungzum22&theme=radical&hide_border=true&card_width=500" alt="GitHub Streak" />
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dungzum22&theme=react-dark&hide_border=true)
 
