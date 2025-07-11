@@ -1,6 +1,6 @@
 # Le Tien Dung
 
-Currently studying at FPT University. Future dream: having 10 wives.
+Currently studying at FPT University. Future dream: having 10 wifes.
 
 ## 📊 GitHub Stats
 
@@ -24,9 +24,9 @@ Currently studying at FPT University. Future dream: having 10 wives.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts" />
+<img src="https://skillicons.dev/icons?i=js,ts,py" />
 
-**Languages:** JavaScript, TypeScript
+**Languages:** JavaScript, TypeScript, Python
 
 ### Web-stack
 
